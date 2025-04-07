@@ -113,7 +113,7 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   }, 
-    "include": ["tests", "tests-examples/demoqa-form.spec.ts", "e2e/AccordionsTests.spec.ts", "e2e/BrowsersPageTests.spec.ts", "e2e/FormTest.spec.ts", "e2e/LinkTests.spec.ts", "e2e/ModalsTests.spec.ts"]
+    "include": ["tests", "tests-examples/demoqa-form.spec.ts", "tests/AccordionsTests.spec.ts", "tests/BrowsersPageTests.spec.ts", "tests/FormTest.spec.ts", "tests/LinkTests.spec.ts", "tests/ModalsTests.spec.ts"]
   
   
 }
