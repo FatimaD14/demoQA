@@ -1,3 +1,19 @@
+ # Playwright UI Automation Tests
+
+This project contains automated UI tests for [DemoQA](https://demoqa.com/) using **Playwright** and **TypeScript**.  
+It showcases various UI interactions such as forms, modals, browser windows, tooltips and more.
+
+---
+
+## 📦 Prerequisites
+
+Make sure you have the following installed:
+
+- [Node.js (v16 or above)](https://nodejs.org/)
+- npm (comes with Node.js)
+
+---
+
 ## ⚙️ Setup Instructions
 
 1. **Clone this repository**
